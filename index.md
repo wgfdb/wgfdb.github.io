@@ -5,6 +5,6 @@
 </head>
 <body>
 <p1> study english site </p1>
-<img src="images/shidai.jpg">
+<img src="images/back.png">
 </body>
 </html>
