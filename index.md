@@ -4,7 +4,7 @@
   	<meta charset="utf-8">
 </head>
 <body>
-<p1> study english site </p1>
+<p> study english site </p>
 <img src="images/back.png">
 </body>
 </html>
